@@ -22,3 +22,8 @@ O programa permite ao usuário:
    Para rodar este programa, você precisa da biblioteca `cryptography`. Para instalá-la, execute o seguinte comando:
    ```bash
    pip install cryptography
+   
+2. **Rodar o projeto**:
+   Para rodar este programa, execute o seguinte comando:
+   ```bash
+   puthon main.py

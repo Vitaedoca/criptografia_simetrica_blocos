@@ -27,3 +27,23 @@ O programa permite ao usuário:
    Para rodar este programa, execute o seguinte comando:
    ```bash
    python main.py
+
+## Demonstração
+
+### 1. O Sistema Iniciando
+Aqui você verá a execução inicial do sistema.:
+
+![Início do Sistema](./images/start.png)
+
+### 2. Entrada da Mensagem
+Após a execução, o programa solicita que o usuário insira a mensagem a ser criptografada.
+
+![Digite sua frase](./images/message.png)
+
+![Digite sua frase](./images/message2.png)
+
+
+### 3. Resultado Final
+No final, você verá o **texto criptografado** e o **texto descriptografado**, como mostrado abaixo:
+
+![Chave Pública e Texto Cifrado](./images/end.png)

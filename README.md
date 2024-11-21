@@ -26,4 +26,4 @@ O programa permite ao usuário:
 2. **Rodar o projeto**:
    Para rodar este programa, execute o seguinte comando:
    ```bash
-   puthon main.py
+   python main.py
